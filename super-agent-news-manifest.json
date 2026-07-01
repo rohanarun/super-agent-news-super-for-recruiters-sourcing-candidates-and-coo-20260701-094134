@@ -1,0 +1,27 @@
+{
+  "citations": [
+    "[securityweek.com](https://www.securityweek.com/decades-old-bash-tricks-expose-ai-coding-agents-to-supply-chain-attacks/)",
+    "[darkreading.com](https://www.darkreading.com/cyber-risk/fake-bug-report-hijacks-ai-coding-agents)",
+    "[venturebeat.com](https://venturebeat.com/security/the-attack-that-hijacked-claude-code-came-through-sentry-datadog-pagerduty-and-jira-have-the-same-exposure)",
+    "[blog.google](https://blog.google/technology/ai/introducing-computer-use-gemini-3-5-flash/)",
+    "[memeburn.com](https://memeburn.com/2026/06/google-gives-gemini-3-5-flash-computer-use-for-ai-agents/)",
+    "[venturebeat.com](https://venturebeat.com/ai/contrario-launches-the-case-for-pairing-ai-agents-with-human-recruiters-instead-of-replacing-them/)"
+  ],
+  "design_plan": "rng=42; hero_lines=3; aida=pass; bento_density=grid-auto-flow:dense verified; labels_swept; button_contrast_checked",
+  "generated_at": "2026-07-01T09:41:41.387117+00:00",
+  "headline": "Super for recruiters sourcing candidates and coordinating interviews",
+  "site_brief": {
+    "audience": "recruiters sourcing candidates and coordinating interviews",
+    "goal": "Create a conversion-focused landing page for this audience. Tie current market evidence to pain points, then show how Super can operate apps and reuse a computer-use cache for repeated work.",
+    "kind": "niche_landing",
+    "queries": [
+      "recruiters sourcing candidates and coordinating interviews AI assistant",
+      "recruiters sourcing candidates and coordinating interviews personal AI agent",
+      "computer use AI agent",
+      "AI workflow automation"
+    ],
+    "slug": "super-for-recruiters-sourcing-candidates-and-coordinating",
+    "title": "Super for recruiters sourcing candidates and coordinating interviews"
+  },
+  "summary": "A conversion\u2011focused niche landing page for recruiters who live inside LinkedIn, ATSs, calendars, and email. It positions Super as a personal AI agent that actually operates recruiting tools, reuses a computer\u2011use cache for repeated sourcing and scheduling work, and reflects current market evidence around agentic AI, workflow automation, and security risks."
+}
